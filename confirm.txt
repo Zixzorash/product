@@ -1,0 +1,59 @@
+{
+  "type": "bubble",
+  "direction": "ltr",
+  "header": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "ยืนยันคำสั่งซื้อ",
+        "weight": "bold",
+        "size": "xxl",
+        "color": "#000000FF",
+        "align": "center",
+        "contents": []
+      }
+    ]
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "คุณ......",
+        "weight": "bold",
+        "size": "xl",
+        "align": "center",
+        "gravity": "center",
+        "contents": []
+      },
+      {
+        "type": "text",
+        "text": "สั่งซื้อ ....... นะคะ ?",
+        "weight": "bold",
+        "size": "xl",
+        "align": "center",
+        "margin": "xxl",
+        "contents": []
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "horizontal",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "message",
+          "label": "ยืนยัน",
+          "text": "ยืนยัน"
+        },
+        "color": "#FF0A0AFF",
+        "style": "primary"
+      }
+    ]
+  }
+}

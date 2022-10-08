@@ -1,0 +1,350 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://cdn.pixabay.com/photo/2016/09/03/20/48/bananas-1642706__340.jpg",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover",
+        "action": {
+          "type": "uri",
+          "label": "Line",
+          "uri": "https://linecorp.com/"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "กล้วย",
+            "weight": "bold",
+            "size": "xxl",
+            "align": "start",
+            "contents": []
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "margin": "md",
+            "contents": [
+              {
+                "type": "icon",
+                "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                "size": "sm"
+              },
+              {
+                "type": "icon",
+                "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                "size": "sm"
+              },
+              {
+                "type": "icon",
+                "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                "size": "sm"
+              },
+              {
+                "type": "icon",
+                "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                "size": "sm"
+              },
+              {
+                "type": "icon",
+                "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png",
+                "size": "sm"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "spacing": "sm",
+            "margin": "lg",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "ราคา",
+                    "size": "sm",
+                    "color": "#000000FF",
+                    "flex": 1,
+                    "align": "start",
+                    "contents": []
+                  },
+                  {
+                    "type": "text",
+                    "text": "หวีละ 100 บาท",
+                    "size": "sm",
+                    "color": "#666666",
+                    "flex": 5,
+                    "align": "start",
+                    "wrap": true,
+                    "contents": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "flex": 0,
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "สั่งซื้อ",
+              "text": "กล้วย"
+            },
+            "height": "sm",
+            "style": "primary"
+          },
+          {
+            "type": "spacer",
+            "size": "sm"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://cdn.pixabay.com/photo/2016/03/27/17/14/grapes-1283162__340.jpg",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover",
+        "action": {
+          "type": "uri",
+          "label": "Line",
+          "uri": "https://linecorp.com/"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "องุ่น",
+            "weight": "bold",
+            "size": "xxl",
+            "contents": []
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "margin": "md",
+            "contents": [
+              {
+                "type": "icon",
+                "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                "size": "sm"
+              },
+              {
+                "type": "icon",
+                "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                "size": "sm"
+              },
+              {
+                "type": "icon",
+                "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                "size": "sm"
+              },
+              {
+                "type": "icon",
+                "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                "size": "sm"
+              },
+              {
+                "type": "icon",
+                "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png",
+                "size": "sm"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "spacing": "sm",
+            "margin": "lg",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "ราคา",
+                    "size": "sm",
+                    "color": "#000000FF",
+                    "flex": 1,
+                    "contents": []
+                  },
+                  {
+                    "type": "text",
+                    "text": "กิโลละ 150 บาท",
+                    "size": "sm",
+                    "color": "#666666",
+                    "flex": 5,
+                    "wrap": true,
+                    "contents": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "flex": 0,
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "สั่งซื้อ",
+              "text": "องุ่น"
+            },
+            "height": "sm",
+            "style": "primary"
+          },
+          {
+            "type": "spacer",
+            "size": "sm"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://cdn.pixabay.com/photo/2015/06/19/16/48/watermelon-815072__340.jpg",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover",
+        "action": {
+          "type": "uri",
+          "label": "Line",
+          "uri": "https://linecorp.com/"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "แตงโม",
+            "weight": "bold",
+            "size": "xxl",
+            "contents": []
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "margin": "md",
+            "contents": [
+              {
+                "type": "icon",
+                "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                "size": "sm"
+              },
+              {
+                "type": "icon",
+                "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                "size": "sm"
+              },
+              {
+                "type": "icon",
+                "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                "size": "sm"
+              },
+              {
+                "type": "icon",
+                "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                "size": "sm"
+              },
+              {
+                "type": "icon",
+                "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png",
+                "size": "sm"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "spacing": "sm",
+            "margin": "lg",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "ราคา",
+                    "size": "sm",
+                    "color": "#000000FF",
+                    "flex": 1,
+                    "contents": []
+                  },
+                  {
+                    "type": "text",
+                    "text": "ลูกละ 80 บาท",
+                    "size": "sm",
+                    "color": "#666666",
+                    "flex": 5,
+                    "wrap": true,
+                    "contents": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "flex": 0,
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "สั่งซื้อ",
+              "text": "แตงโม"
+            },
+            "height": "sm",
+            "style": "primary"
+          },
+          {
+            "type": "spacer",
+            "size": "sm"
+          }
+        ]
+      }
+    }
+  ]
+}
